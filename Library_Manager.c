@@ -22,7 +22,6 @@ FILE* read(char file_name[max]);
 FILE* rewrite(char file_name[max], Book books_array[], int size, char remove_book[]);
 void append(char file_name[max], Book book);
 
-Book* read_database();
 void read_string(char s[]);
 
 void print_books(Book books_array[max], int size);
