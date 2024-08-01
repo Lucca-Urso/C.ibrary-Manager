@@ -1,0 +1,306 @@
+--------------------------
+Nome: A Divina Comedia
+Autor: Dante Alighieri
+Ano de Publicacao: 1320
+Valor: R$49.00
+Alugado: No
+--------------------------
+Nome: Dom Quixote
+Autor: Miguel de Cervantes
+Ano de Publicacao: 1605
+Valor: R$59.00
+Alugado: No
+--------------------------
+Nome: Orgulho e Preconceito
+Autor: Jane Austen
+Ano de Publicacao: 1813
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: Frankenstein
+Autor: Mary Shelley
+Ano de Publicacao: 1818
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: O Conde de Monte Cristo
+Autor: Alexandre Dumas
+Ano de Publicacao: 1844
+Valor: R$59.00
+Alugado: No
+--------------------------
+Nome: O Morro dos Ventos Uivantes
+Autor: Emily Bronte
+Ano de Publicacao: 1847
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: Jane Eyre
+Autor: Charlotte Bronte
+Ano de Publicacao: 1847
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: Moby Dick
+Autor: Herman Melville
+Ano de Publicacao: 1851
+Valor: R$44.00
+Alugado: No
+--------------------------
+Nome: Os Miseraveis
+Autor: Victor Hugo
+Ano de Publicacao: 1862
+Valor: R$59.00
+Alugado: No
+--------------------------
+Nome: Crime e Castigo
+Autor: Fiodor Dostoievski
+Ano de Publicacao: 1866
+Valor: R$44.00
+Alugado: No
+--------------------------
+Nome: Guerra e Paz
+Autor: Liev Tolstoi
+Ano de Publicacao: 1869
+Valor: R$64.00
+Alugado: No
+--------------------------
+Nome: O Retrato de Dorian Gray
+Autor: Oscar Wilde
+Ano de Publicacao: 1890
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: Dracula
+Autor: Bram Stoker
+Ano de Publicacao: 1897
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: A Metamorfose
+Autor: Franz Kafka
+Ano de Publicacao: 1915
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: Ulisses
+Autor: James Joyce
+Ano de Publicacao: 1922
+Valor: R$69.00
+Alugado: Yes
+--------------------------
+Nome: A Montanha Magica
+Autor: Thomas Mann
+Ano de Publicacao: 1924
+Valor: R$59.00
+Alugado: No
+--------------------------
+Nome: O Processo
+Autor: Franz Kafka
+Ano de Publicacao: 1925
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: O Grande Gatsby
+Autor: F. Scott Fitzgerald
+Ano de Publicacao: 1925
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: O Lobo da Estepe
+Autor: Hermann Hesse
+Ano de Publicacao: 1927
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: Admiravel Mundo Novo
+Autor: Aldous Huxley
+Ano de Publicacao: 1932
+Valor: R$44.00
+Alugado: No
+--------------------------
+Nome: O Hobbit
+Autor: J.R.R Tolkien
+Ano de Publicacao: 1937
+Valor: R$29.85
+Alugado: No
+--------------------------
+Nome: O Hobbit
+Autor: J.R.R. Tolkien
+Ano de Publicacao: 1937
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: Mais Esperto que o Diabo
+Autor: Napoleon Hill
+Ano de Publicacao: 1938
+Valor: R$31.44
+Alugado: Yes
+--------------------------
+Nome: O Estrangeiro
+Autor: Albert Camus
+Ano de Publicacao: 1942
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: A Revolucao dos Bichos
+Autor: George Orwell
+Ano de Publicacao: 1945
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: 1984
+Autor: George Orwell
+Ano de Publicacao: 1949
+Valor: R$49.00
+Alugado: No
+--------------------------
+Nome: As Cronicas de Narnia
+Autor: C.S. Lewis
+Ano de Publicacao: 1950
+Valor: R$49.00
+Alugado: No
+--------------------------
+Nome: O Apanhador no Campo de Centeio
+Autor: J.D. Salinger
+Ano de Publicacao: 1951
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: O Senhor dos Aneis
+Autor: J.R.R. Tolkien
+Ano de Publicacao: 1954
+Valor: R$89.00
+Alugado: No
+--------------------------
+Nome: O Sol e Para Todos
+Autor: Harper Lee
+Ano de Publicacao: 1960
+Valor: R$44.00
+Alugado: No
+--------------------------
+Nome: Laranja Mecanica
+Autor: Anthony Burgess
+Ano de Publicacao: 1962
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: Duna
+Autor: Frank Herbert
+Ano de Publicacao: 1965
+Valor: R$44.00
+Alugado: No
+--------------------------
+Nome: Cem Anos de Solidao
+Autor: Gabriel Garcia Marquez
+Ano de Publicacao: 1967
+Valor: R$54.00
+Alugado: No
+--------------------------
+Nome: As Veias Abertas da America Latina
+Autor: Eduardo Galeano
+Ano de Publicacao: 1971
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: O Outono do Patriarca
+Autor: Gabriel Garcia Marquez
+Ano de Publicacao: 1975
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: O Iluminado
+Autor: Stephen King
+Ano de Publicacao: 1977
+Valor: R$44.00
+Alugado: Yes
+--------------------------
+Nome: O Guia do Mochileiro das Galaxias
+Autor: Douglas Adams
+Ano de Publicacao: 1979
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: O Nome da Rosa
+Autor: Umberto Eco
+Ano de Publicacao: 1980
+Valor: R$49.00
+Alugado: No
+--------------------------
+Nome: A Torre Negra
+Autor: Stephen King
+Ano de Publicacao: 1982
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: Neuromancer
+Autor: William Gibson
+Ano de Publicacao: 1984
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: A Insustentavel Leveza do Ser
+Autor: Milan Kundera
+Ano de Publicacao: 1984
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: O Amor nos Tempos do Colera
+Autor: Gabriel Garcia Marquez
+Ano de Publicacao: 1985
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: It: A Coisa
+Autor: Stephen King
+Ano de Publicacao: 1986
+Valor: R$49.00
+Alugado: Yes
+--------------------------
+Nome: O Alquimista
+Autor: Paulo Coelho
+Ano de Publicacao: 1988
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: O Livro dos Abracos
+Autor: Eduardo Galeano
+Ano de Publicacao: 1989
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: Fortaleza Digital
+Autor: Dan Brown
+Ano de Publicacao: 1998
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: Anjos e Demonios
+Autor: Dan Brown
+Ano de Publicacao: 2000
+Valor: R$34.00
+Alugado: No
+--------------------------
+Nome: Viver para Contar
+Autor: Gabriel Garcia Marquez
+Ano de Publicacao: 2002
+Valor: R$44.00
+Alugado: No
+--------------------------
+Nome: O Codigo Da Vinci
+Autor: Dan Brown
+Ano de Publicacao: 2003
+Valor: R$39.00
+Alugado: No
+--------------------------
+Nome: Memorias de Minhas Putas Tristes
+Autor: Gabriel Garcia Marquez
+Ano de Publicacao: 2004
+Valor: R$29.00
+Alugado: No
+--------------------------
+Nome: Inferno
+Autor: Dan Brown
+Ano de Publicacao: 2013
+Valor: R$44.00
+Alugado: Yes
